@@ -1,0 +1,37 @@
+page {
+  background-color: #FFFAE8;
+}
+.divLine {
+  width: 750rpx;
+  height: 15rpx;
+  border-bottom: 5rpx solid #999;
+}
+.h1-1 {
+  font-family: 华文新魏;
+  margin-top: 20rpx;
+  text-align: center;
+}
+.vv1 {
+  margin: 20rpx;
+  min-height: 300rpx;
+}
+.vv1 .vvv1 {
+  min-height: 300rpx;
+  display: inline-block;
+  width: 500rpx;
+}
+.vv1 .vvv1 view {
+  margin: 5rpx;
+  padding-bottom: 10rpx;
+  font-family: 楷体;
+}
+.vv1 .vvv2 {
+  display: inline-block;
+  height: 300rpx;
+  width: 200rpx;
+  float: right;
+}
+.vv2 {
+  text-indent: 2em;
+}
+

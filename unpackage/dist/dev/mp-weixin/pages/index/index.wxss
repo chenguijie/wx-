@@ -1,0 +1,32 @@
+.divLine {
+  width: 750rpx;
+  height: 15rpx;
+  border-bottom: 5rpx solid #999;
+}
+.con1 {
+  margin: 10rpx;
+}
+.con1 .text1 {
+  text-align: center;
+  font-family: 华文隶书;
+}
+.con1 .im1 {
+  text-align: center;
+}
+.con1 .im1 .v1 {
+  width: 220rpx;
+  height: 325rpx;
+  background-color: #999;
+  margin: 10rpx;
+  overflow: hidden;
+  float: left;
+  text-align: center;
+}
+.con1 .im1 .v1 .vnv1 {
+  height: 275rpx;
+}
+.con1 .im1 .v1 text {
+  font-family: 华文新魏;
+  color: aqua;
+}
+
